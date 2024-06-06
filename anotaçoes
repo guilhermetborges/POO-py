@@ -1,0 +1,19 @@
+abstração de dados:
+            em python temos varios tipos de dados, ou seja varias abstrações
+            ex: strings, int, float etc..
+        o tipo precisa ser defdinido pelo usuario a depender da ocasião
+vantagem: o uso do objeto pode ser apenas usado pela delimitação da operação pré defifnida
+(é limitado o escopo da entidade para que possa funcionar apenas no escopo)
+
+encapsulamento(definir coisas dentro de outras)
+exemplo da fila: 
+        pessoa: vai ate atrás da outra< uma entra outra sai
+        ordem< a primeira entrar , primeira a sair
+
+
+                         fila
+                entrar           sair
+
+        
+        CLASSES:
+'conjunto de algo que se relaciona'
